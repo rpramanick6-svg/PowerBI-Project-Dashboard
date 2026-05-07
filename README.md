@@ -49,23 +49,6 @@ This assignment shows hands-on work in the following areas:
 - Interactive Visualizations 
 - KPI Reporting 
 
-## Repository structure
-```bash
-powerbi-assignment/
-├── README.md
-├── assets/
-│   ├── landing-page.png
-│   ├── modelling-page.png
-│   ├── visualization-page.png
-│   └── dax-page.png
-├── docs/
-│   └── project-notes.md
-├── export/
-│   └── PowerBI-Assignment.pptx
-└── project/
-    └── PowerBI-Assignment.pbix
-```
-
 ## Project purpose
 The purpose of this assignment is to demonstrate the ability to build a structured Power BI report from raw business data, create useful visual analysis, and write DAX expressions for practical business questions such as taxation, delivery delay, profit margin, cumulative sales, moving averages, and year-over-year performance.
 
