@@ -1,4 +1,3 @@
-# PowerBI-Project-Dashboard
 # Power BI Assignment Dashboard
 
 ## Overview
